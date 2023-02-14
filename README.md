@@ -7,6 +7,13 @@
 <a href="https://instagram.com/penelopeverdi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="www.linkedin.com/in/penélope-verdi-71b076266" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
+ <br>
+ <br>
+ <div align="center">
+  <img src="/berenice.png" width="40%">
+ </div>
+ <br>
+ <br>
  
   Skills:
   
