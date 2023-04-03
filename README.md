@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
-  <div align="center"> Hi, I'm Penelope 🌸<br>I'am a system analysis and development student</div>
+  <div align="center"> Hi, I'm Penelope 🌸<br>I am a system analysis and development student</div>
   
   <br>
  <div align="center"> 
